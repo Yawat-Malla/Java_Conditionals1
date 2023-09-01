@@ -1,0 +1,12 @@
+1. wap using if else to map number with days 1-7.
+2. wap to create a caluclator using if else (+,-,/,*)
+use x.equals("+") ti compare string
+3. wap to create a guessing game.
+4. wap to create a login system use  x equals ("y") to compare.
+5. wap to find the greatest no between 2 numbers
+6. wap to create a lucky draw generator
+7. wap to create a program to find highest possible note.
+
+
+To compare two variables :
+x.equals(y)
